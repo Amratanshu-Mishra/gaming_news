@@ -31,6 +31,7 @@ class newsAdapter(private val PlantList: List<news>) : RecyclerView.Adapter<news
             }
 
         }
+        //Mack
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): MovieHolder {
